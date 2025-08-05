@@ -1,4 +1,4 @@
-from langchain_huggingface import HuggingFaceEmbeddings, HuggingFaceEndpointEmbeddings
+from langchain_huggingface import HuggingFaceEndpointEmbeddings
 from dotenv import load_dotenv
 load_dotenv() 
 
