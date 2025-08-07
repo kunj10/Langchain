@@ -1,2 +1,5 @@
 *venv
 *.env
+*RAG.pdf
+*demo.csv
+*demo.txt
