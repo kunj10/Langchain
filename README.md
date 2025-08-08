@@ -138,10 +138,11 @@ pip install -r requirements.txt
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kunj101/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kunjpatel101/)  
 - 🌟 If this repo helps you, give it a star on GitHub!
 
 ---
 
 > _"Learning is a journey, not a race – code, break things, and build again."_ 🚀
+
 
