@@ -1,7 +1,5 @@
 ﻿# 🚀 Generative AI using LangChain – Learning Journey
 
-[LangChain Banner]([https://www.langchain.com/](https://agile-systems.de/wp-content/uploads/2024/03/LangChain-Logo-300x300.png))
-
 Welcome to my **LangChain Learning Repository**!  
 This repo documents my hands-on journey through the [**Generative AI using LangChain**](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) YouTube playlist by **CampusX**.  
 Here you'll find **notes, code, exercises, and projects** I’ve built while mastering LangChain to create intelligent AI applications.
@@ -145,5 +143,6 @@ pip install -r requirements.txt
 ---
 
 > _"Learning is a journey, not a race – code, break things, and build again."_ 🚀
+
 
 
